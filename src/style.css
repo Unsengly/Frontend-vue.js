@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Kantumruy+Pro:wght@300;400;500;600;700&display=swap");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Poppins, sans-serif, Kantumruy Pro;
+}
+
+body {
+  background-color: #f2f2f2;
+  height: 100vh;
+  width: 100vw;
+}
